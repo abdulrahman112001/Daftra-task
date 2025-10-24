@@ -13,10 +13,7 @@ const HomePage: React.FC = () => {
       <Text variant="subtitle" color="default" className="hero__subtitle">
         Discover and explore Pokémon with infinite scroll
       </Text>
-      
-      <Text variant="body" color="default" className="hero__features">
-        ⚡ Powered by React Query • 🛡️ Error Boundaries • ⚙️ React Suspense
-      </Text>
+
       
       <div className="hero__buttons">
         <Button variant="primary" size="large">
